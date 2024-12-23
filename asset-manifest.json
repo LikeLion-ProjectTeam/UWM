@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/UWM/static/css/main.53701fc0.css",
-    "main.js": "/UWM/static/js/main.cc86b4ab.js",
+    "main.css": "/UWM/static/css/main.e12e3850.css",
+    "main.js": "/UWM/static/js/main.142052a5.js",
     "static/js/453.ee08e224.chunk.js": "/UWM/static/js/453.ee08e224.chunk.js",
     "static/media/stadium.jpg": "/UWM/static/media/stadium.c6c0ccb1b9c7a1681700.jpg",
     "static/media/chaewon.png": "/UWM/static/media/chaewon.3cfa00b3c205ea1113bd.png",
@@ -38,12 +38,12 @@
     "static/media/slick.ttf": "/UWM/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/UWM/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/UWM/index.html",
-    "main.53701fc0.css.map": "/UWM/static/css/main.53701fc0.css.map",
-    "main.cc86b4ab.js.map": "/UWM/static/js/main.cc86b4ab.js.map",
+    "main.e12e3850.css.map": "/UWM/static/css/main.e12e3850.css.map",
+    "main.142052a5.js.map": "/UWM/static/js/main.142052a5.js.map",
     "453.ee08e224.chunk.js.map": "/UWM/static/js/453.ee08e224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53701fc0.css",
-    "static/js/main.cc86b4ab.js"
+    "static/css/main.e12e3850.css",
+    "static/js/main.142052a5.js"
   ]
 }
