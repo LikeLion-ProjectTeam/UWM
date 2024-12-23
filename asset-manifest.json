@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/UWM/static/css/main.0a2a30eb.css",
-    "main.js": "/UWM/static/js/main.e9b3e7eb.js",
+    "main.css": "/UWM/static/css/main.53701fc0.css",
+    "main.js": "/UWM/static/js/main.cc86b4ab.js",
     "static/js/453.ee08e224.chunk.js": "/UWM/static/js/453.ee08e224.chunk.js",
     "static/media/stadium.jpg": "/UWM/static/media/stadium.c6c0ccb1b9c7a1681700.jpg",
     "static/media/chaewon.png": "/UWM/static/media/chaewon.3cfa00b3c205ea1113bd.png",
@@ -18,12 +18,16 @@
     "static/media/eunyeol.png": "/UWM/static/media/eunyeol.c64995b98fba79633b10.png",
     "static/media/taehee.png": "/UWM/static/media/taehee.b44e028360338d265dfc.png",
     "static/media/dotty.jpg": "/UWM/static/media/dotty.3619280d6353cfe8d95c.jpg",
+    "static/media/cozycottage_thumbnail.jpeg": "/UWM/static/media/cozycottage_thumbnail.09981ec2d0c328d5fa6f.jpeg",
     "static/media/2024ProjectTeam.jpg": "/UWM/static/media/2024ProjectTeam.09228ca00614ddf1e73c.jpg",
     "static/media/yunji.png": "/UWM/static/media/yunji.4f6a7c41d47270d8f693.png",
     "static/media/logo.jpeg": "/UWM/static/media/logo.fdbe3d70ffa978c26a23.jpeg",
+    "static/media/ecoboom_thumbnail.jpeg": "/UWM/static/media/ecoboom_thumbnail.6377c93c3a1a882a3b06.jpeg",
     "static/media/sunghyeon.png": "/UWM/static/media/sunghyeon.86f1b9f6de8abc727691.png",
     "static/media/Sijun.png": "/UWM/static/media/Sijun.4cefcba919478d4956db.png",
     "static/media/Hackathon_Placeholder.png": "/UWM/static/media/Hackathon_Placeholder.fc5f8adb489518defa7d.png",
+    "static/media/ideathon_thumnail.jpeg": "/UWM/static/media/ideathon_thumnail.034a658b126137704370.jpeg",
+    "static/media/reconnection_thumbnail.jpeg": "/UWM/static/media/reconnection_thumbnail.06d64a919dd173a068bd.jpeg",
     "static/media/LikeLionUS.jpeg": "/UWM/static/media/LikeLionUS.fe3423d6bd7886a16813.jpeg",
     "static/media/lion.jpeg": "/UWM/static/media/lion.84b06039e8b576ba63e5.jpeg",
     "static/media/logo.png": "/UWM/static/media/logo.db9f2f4f6a57a3c11e8a.png",
@@ -34,12 +38,12 @@
     "static/media/slick.ttf": "/UWM/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/UWM/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/UWM/index.html",
-    "main.0a2a30eb.css.map": "/UWM/static/css/main.0a2a30eb.css.map",
-    "main.e9b3e7eb.js.map": "/UWM/static/js/main.e9b3e7eb.js.map",
+    "main.53701fc0.css.map": "/UWM/static/css/main.53701fc0.css.map",
+    "main.cc86b4ab.js.map": "/UWM/static/js/main.cc86b4ab.js.map",
     "453.ee08e224.chunk.js.map": "/UWM/static/js/453.ee08e224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a2a30eb.css",
-    "static/js/main.e9b3e7eb.js"
+    "static/css/main.53701fc0.css",
+    "static/js/main.cc86b4ab.js"
   ]
 }
