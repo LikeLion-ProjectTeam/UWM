@@ -1,14 +1,31 @@
 import React from "react";
+import { useLocation } from "react-router-dom";
 import "./Header.css";
+import logo from "../Assets/AboutUs/logo.png";
 
 const Header = () => {
+  const location = useLocation();
+
   const scrollToSection = (id) => {
-    document.getElementById(id).scrollIntoView({ behavior: "smooth" });
+    if (location.pathname !== "/") {
+      window.location.href = `/#${id}`;
+      return;
+    }
+
+    const section = document.getElementById(id);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+    } else {
+      console.error(`Element with id "${id}" not found.`);
+    }
   };
 
   return (
     <header className="header">
       <nav>
+        <div className="logo-container">
+          <img src={logo} alt="Logo" className="logo" />
+        </div>
         <ul>
           <li onClick={() => scrollToSection("about-us")}>About Us</li>
           <li onClick={() => scrollToSection("story")}>Story</li>
