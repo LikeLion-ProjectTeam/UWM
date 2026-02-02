@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UWM/static/css/main.2fbc7fac.css",
-    "main.js": "/UWM/static/js/main.142052a5.js",
+    "main.js": "/UWM/static/js/main.4151f710.js",
     "static/js/453.ee08e224.chunk.js": "/UWM/static/js/453.ee08e224.chunk.js",
     "static/media/stadium.jpg": "/UWM/static/media/stadium.c6c0ccb1b9c7a1681700.jpg",
     "static/media/chaewon.png": "/UWM/static/media/chaewon.3cfa00b3c205ea1113bd.png",
@@ -30,7 +30,7 @@
     "static/media/reconnection_thumbnail.jpeg": "/UWM/static/media/reconnection_thumbnail.06d64a919dd173a068bd.jpeg",
     "static/media/LikeLionUS.jpeg": "/UWM/static/media/LikeLionUS.fe3423d6bd7886a16813.jpeg",
     "static/media/lion.jpeg": "/UWM/static/media/lion.84b06039e8b576ba63e5.jpeg",
-    "static/media/logo.png": "/UWM/static/media/logo.db9f2f4f6a57a3c11e8a.png",
+    "static/media/logo.png": "/UWM/static/media/logo.0ec333871f630b799598.png",
     "static/media/hari.png": "/UWM/static/media/hari.b39c2522d9216e56acf1.png",
     "static/media/beomseong.png": "/UWM/static/media/beomseong.4195b619fc4369e76dfd.png",
     "static/media/slick.svg": "/UWM/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -39,11 +39,11 @@
     "static/media/slick.woff": "/UWM/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/UWM/index.html",
     "main.2fbc7fac.css.map": "/UWM/static/css/main.2fbc7fac.css.map",
-    "main.142052a5.js.map": "/UWM/static/js/main.142052a5.js.map",
+    "main.4151f710.js.map": "/UWM/static/js/main.4151f710.js.map",
     "453.ee08e224.chunk.js.map": "/UWM/static/js/453.ee08e224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fbc7fac.css",
-    "static/js/main.142052a5.js"
+    "static/js/main.4151f710.js"
   ]
 }
